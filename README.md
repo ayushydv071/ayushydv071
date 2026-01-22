@@ -1,5 +1,38 @@
-# 💫 About Me:
-I'm current persuing B.tech From Noida Institute of Engineering and Technology, Greater Noida.<br>I'm looking for some good Internship Opportunities and want to work on some real life projects.<br>I'm currently Doing C++ and solving regular dsa problems ....apart that i will to learn python and machine learning<br>The skills i gained are Graphic Designing ....programing .....web development......I have multiple certifications like java from oracle, Comprehensive training using linux and unix, etc<br>In term of personality I'm little ambivert and love spending time with my friends my hobbies include playing videos games like bgmi, gta5, RDR3 etc and listening music   
+👋 Hi, I’m Ayush Yadav
+🎓 B.Tech Student at Noida Institute of Engineering and Technology (NIET), Greater Noida
+💡 Aspiring Software Engineer | ML Enthusiast | Problem Solver
+
+🚀 About Me
+I am a passionate engineering student actively seeking internship opportunities where I can work on real-world projects and apply my technical skills to solve practical problems.
+I have a strong foundation in C++ and regularly practice Data Structures & Algorithms to strengthen my problem-solving abilities. Alongside this, I am expanding my skill set by learning Python and exploring the fundamentals of Machine Learning.
+
+🛠️ Technical Skills
+Programming: C++, Java, Python (learning)
+Core CS: Data Structures & Algorithms
+Web Development: HTML, CSS, JavaScript
+Design: Graphic Designing
+Systems: Linux & Unix
+
+📜 Certifications
+Java Certification – Oracle
+Comprehensive Training in Linux & Unix
+Additional technical certifications in programming and development
+
+🎯 What I’m Looking For
+Internship opportunities in Software Development / Data / Machine Learning
+Hands-on experience with industry-level projects
+Opportunities to learn, collaborate, and grow as an engineer
+
+🌱 Personality & Interests
+I’m an ambivert who enjoys teamwork as much as focused individual work.
+When I’m not coding, you’ll find me:
+🎮 Gaming (BGMI, GTA V, Red Dead Redemption)
+🎧 Listening to music
+👥 Spending time with friends
+📫 Let’s Connect
+
+I’m always open to learning, collaboration, and exciting opportunities.
+Feel free to explore my repositories and reach out!
 
 
 ## 🌐 Socials:
