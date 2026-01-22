@@ -25,21 +25,6 @@ I enjoy building things, learning new technologies, and collaborating with peopl
 
 ---
 
-## 📜 Certifications  
-
-- **Java Certification** – Oracle  
-- **Comprehensive Training in Linux & Unix**  
-- Additional certifications in programming and development  
-
----
-
-## 🎯 What I’m Looking For  
-
-- Internship roles in **Software Development / Machine Learning / Data**  
-- Hands-on experience with **industry-level projects**  
-- Opportunities to learn, grow, and contribute as a developer  
-
----
 
 ## 🌱 Personality & Interests  
 
