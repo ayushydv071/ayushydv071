@@ -1,34 +1,55 @@
 👋 Hi, I’m Ayush Yadav
+
 🎓 B.Tech Student at Noida Institute of Engineering and Technology (NIET), Greater Noida
+
 💡 Aspiring Software Engineer | ML Enthusiast | Problem Solver
 
 🚀 About Me
+
 I am a passionate engineering student actively seeking internship opportunities where I can work on real-world projects and apply my technical skills to solve practical problems.
+
 I have a strong foundation in C++ and regularly practice Data Structures & Algorithms to strengthen my problem-solving abilities. Alongside this, I am expanding my skill set by learning Python and exploring the fundamentals of Machine Learning.
 
 🛠️ Technical Skills
+
 Programming: C++, Java, Python (learning)
+
 Core CS: Data Structures & Algorithms
+
 Web Development: HTML, CSS, JavaScript
+
 Design: Graphic Designing
+
 Systems: Linux & Unix
 
 📜 Certifications
+
 Java Certification – Oracle
+
 Comprehensive Training in Linux & Unix
+
 Additional technical certifications in programming and development
 
 🎯 What I’m Looking For
+
 Internship opportunities in Software Development / Data / Machine Learning
+
 Hands-on experience with industry-level projects
+
 Opportunities to learn, collaborate, and grow as an engineer
 
 🌱 Personality & Interests
+
 I’m an ambivert who enjoys teamwork as much as focused individual work.
+
 When I’m not coding, you’ll find me:
+
 🎮 Gaming (BGMI, GTA V, Red Dead Redemption)
+
 🎧 Listening to music
+
 👥 Spending time with friends
+
 📫 Let’s Connect
 
 I’m always open to learning, collaboration, and exciting opportunities.
