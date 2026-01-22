@@ -1,59 +1,63 @@
-#👋 Hi, I’m Ayush Yadav
+# 👋 Hi, I'm Ayush Yadav  
 
-🎓 B.Tech Student at Noida Institute of Engineering and Technology (NIET), Greater Noida
+🎓 **B.Tech Student** | 💻 Aspiring Software Engineer  
+📍 Noida Institute of Engineering and Technology (NIET), Greater Noida  
 
-💡 Aspiring Software Engineer | ML Enthusiast | Problem Solver
+---
 
-##🚀 About Me
+## 🚀 About Me  
 
-I am a passionate engineering student actively seeking internship opportunities where I can work on real-world projects and apply my technical skills to solve practical problems.
+I am a passionate and motivated engineering student actively looking for **internship opportunities** where I can work on **real-world projects** and enhance my technical skills.  
 
-I have a strong foundation in C++ and regularly practice Data Structures & Algorithms to strengthen my problem-solving abilities. Alongside this, I am expanding my skill set by learning Python and exploring the fundamentals of Machine Learning.
+I have a strong command over **C++** and regularly practice **Data Structures & Algorithms** to improve my problem-solving mindset. Along with this, I am currently learning **Python** and exploring the fundamentals of **Machine Learning**.  
 
-##🛠️ Technical Skills
+I enjoy building things, learning new technologies, and collaborating with people who share the same curiosity for tech.
 
-Programming: C++, Java, Python (learning)
+---
 
-Core CS: Data Structures & Algorithms
+## 🛠️ Technical Skills  
 
-Web Development: HTML, CSS, JavaScript
+- **Programming Languages:** C++, Java, Python (Learning)  
+- **Core Concepts:** Data Structures & Algorithms  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Design:** Graphic Designing  
+- **Operating Systems:** Linux & Unix  
 
-Design: Graphic Designing
+---
 
-Systems: Linux & Unix
+## 📜 Certifications  
 
-##📜 Certifications
+- **Java Certification** – Oracle  
+- **Comprehensive Training in Linux & Unix**  
+- Additional certifications in programming and development  
 
-Java Certification – Oracle
+---
 
-Comprehensive Training in Linux & Unix
+## 🎯 What I’m Looking For  
 
-Additional technical certifications in programming and development
+- Internship roles in **Software Development / Machine Learning / Data**  
+- Hands-on experience with **industry-level projects**  
+- Opportunities to learn, grow, and contribute as a developer  
 
-##🎯 What I’m Looking For
+---
 
-Internship opportunities in Software Development / Data / Machine Learning
+## 🌱 Personality & Interests  
 
-Hands-on experience with industry-level projects
+I am an **ambivert**, comfortable working both independently and in team environments.  
 
-Opportunities to learn, collaborate, and grow as an engineer
+**Beyond coding, I enjoy:**  
+- 🎮 Gaming (BGMI, GTA V, Red Dead Redemption)  
+- 🎧 Listening to music  
+- 👥 Spending quality time with friends  
 
-##🌱 Personality & Interests
+---
 
-I’m an ambivert who enjoys teamwork as much as focused individual work.
+## 📫 Let’s Connect  
 
-When I’m not coding, you’ll find me:
+Feel free to explore my repositories and reach out for collaboration or opportunities.  
+I’m always open to learning and building something impactful 🚀  
 
-🎮 Gaming (BGMI, GTA V, Red Dead Redemption)
-
-🎧 Listening to music
-
-👥 Spending time with friends
-
-📫 Let’s Connect
-
-I’m always open to learning, collaboration, and exciting opportunities.
-Feel free to explore my repositories and reach out!
+⭐ *If you like my work, consider giving a star to my repositories!*
 
 
 ## 🌐 Socials:
