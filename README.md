@@ -17,11 +17,11 @@ I enjoy building things, learning new technologies, and collaborating with peopl
 
 ## 🛠️ Technical Skills  
 
-- **Programming Languages:** C++, Java, Python (Learning)  
+- **Programming Languages:** C++, Java, Python , Machine Learning , NLP 
 - **Core Concepts:** Data Structures & Algorithms  
-- **Web Development:** HTML, CSS, JavaScript  
+- **Web Development:** Basic Frontend
 - **Design:** Graphic Designing  
-- **Operating Systems:** Linux & Unix  
+- **Operating Systems:** Linux 
 
 ---
 
