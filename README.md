@@ -9,8 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=ayushydv071&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/ayushydv071?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/ayushydv071?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=STARS"/> </div> <br/>
 🪞 About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
-
-Ayush_Yadav:
+yaml
+ayush_yadav:
   role: "Software Engineer in the making | Full-Stack + AI/ML"
   currently:
     - Building production-grade MERN stack applications
@@ -32,11 +32,9 @@ Ayush_Yadav:
 Languages
 <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,html,css&theme=dark"/>
 Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
 Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark"/>
-Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux,npm&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 Currently Exploring
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
 🧠 AI/ML Expertise
