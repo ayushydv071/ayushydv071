@@ -1,64 +1,115 @@
-# 👋 Hi, I'm Ayush Yadav  
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Ayush%20Yadav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Consistent+DSA+Problem+Solver;MERN+Stack+Developer;Backend+%26+API+Integration+Engineer;Exploring+Machine+Learning;Future+LLM+Builder" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/B.Tech-Data%20Science-6D28D9?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/3rd%20Year-Engineering-7C3AED?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/NIET-Greater%20Noida-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/📍-Greater%20Noida,%20India-A78BFA?style=for-the-badge&labelColor=1a1a2e"/>
 
-🎓 **B.Tech Student** | 💻 Aspiring Software Engineer  
-📍 Noida Institute of Engineering and Technology (NIET), Greater Noida  
+<br/><br/>
 
----
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="www.linkedin.com/in/ayush-yadav-021668349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="ayushydv071@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ayushydv071"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## 🚀 About Me  
+<br/><br/>
 
-I am a passionate and motivated engineering student actively looking for **internship opportunities** where I can work on **real-world projects** and enhance my technical skills.  
+<img src="https://komarev.com/ghpvc/?username=ayushydv071&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/ayushydv071?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/ayushydv071?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=STARS"/> </div> <br/>
+🪞 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
+yaml
+ayush_yadav:
+  role: "Software Engineer in the making | Full-Stack + AI/ML"
+  currently:
+    - Building production-grade MERN stack applications
+    - Designing and integrating REST APIs with automated backend systems
+    - Sharpening problem-solving through 300+ DSA problems (C++)
+    - Exploring the foundations of Machine Learning
+  vision: "Transitioning from ML fundamentals toward building and fine-tuning LLMs"
+  engineering_philosophy:
+    - Clean, scalable, maintainable code over quick hacks
+    - Ship products, not just prototypes
+    - Learn in public, build in public
+  open_to:
+    - Software Engineering Internships (Full-Stack / Backend)
+    - Open Source Collaboration
+    - AI/ML Research Exposure
+    - Freelance & Tutoring Opportunities
+<br clear="right"/>
+🛠️ Tech Stack
+Languages
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,html,css&theme=dark"/>
+Frontend
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,figma&theme=dark"/>
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark"/>
+Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux,npm&theme=dark"/>
+Currently Exploring
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+🧠 AI/ML Expertise
+<div align="center">
+Domain	Proficiency	Details
+Machine Learning Fundamentals	🟣🟣🟣⚪⚪	Regression, classification, model evaluation, scikit-learn
+Data Preprocessing & Analysis	🟣🟣🟣🟣⚪	Pandas, NumPy, feature engineering, EDA
+Deep Learning Basics	🟣🟣⚪⚪⚪	Neural network fundamentals, TensorFlow/Keras exposure
+LLM Engineering (Goal-Oriented)	🟣⚪⚪⚪⚪	Actively studying transformer architecture & fine-tuning workflows
+DSA for ML Optimization	🟣🟣🟣🟣🟣	Strong algorithmic foundation applied to model efficiency
+</div>
+🚀 Featured Projects
+<details> <summary><b>🔹 Full-Stack Community Forum Platform</b></summary> <br/>
 
-I have a strong command over **C++** and regularly practice **Data Structures & Algorithms** to improve my problem-solving mindset. Along with this, I am currently learning **Python** and exploring the fundamentals of **Machine Learning**.  
+A full-stack discussion forum enabling authenticated users to create, browse, and engage with community threads in real time.
 
-I enjoy building things, learning new technologies, and collaborating with people who share the same curiosity for tech.
+Metric	Detail
+Stack	HTML5, CSS3, JavaScript, Node.js, Express, MongoDB
+Scale	Multi-user, thread-based architecture with persistent storage
+Performance	Optimized DOM rendering & indexed MongoDB queries
+Security	Input sanitization, session-based auth handling
+Impact	Demonstrates end-to-end ownership of a full-stack product
+Repository	View on GitHub
 
----
+Engineering Notes: Built to reinforce core full-stack fundamentals — DOM manipulation, server-side routing, and schema design — before scaling into the MERN ecosystem.
 
-## 🛠️ Technical Skills  
+</details> <details> <summary><b>🔹 Fake News Predictor — ML Classifier</b></summary> <br/>
 
-- **Programming Languages:** C++, Java, Python , Machine Learning , NLP 
-- **Core Concepts:** Data Structures & Algorithms  
-- **Web Development:** Basic Frontend
-- **Design:** Graphic Designing  
-- **Operating Systems:** Linux 
+A machine learning pipeline that classifies news articles as real or fake using NLP-based feature extraction.
 
----
+Metric	Detail
+Stack	Python, Scikit-learn, TF-IDF, Pandas, NumPy
+Scale	Trained and evaluated on a labeled news dataset
+Performance	Benchmarked across multiple classifiers (Logistic Regression, Naive Bayes, PassiveAggressive)
+Security	Clean data validation pipeline to prevent leakage
+Impact	Applied NLP + ML fundamentals to a real-world misinformation problem
+Repository	Private / Available on request
 
+Engineering Notes: Focused on the full ML lifecycle — vectorization, model selection, and evaluation metrics (accuracy, precision, recall, F1).
 
-## 🌱 Personality & Interests  
+</details> <details> <summary><b>🔹 DSA Vault — 300+ Problems in C++</b></summary> <br/>
 
-I am an **ambivert**, comfortable working both independently and in team environments.  
+A structured, continuously updated repository documenting solved DSA problems with brute-force → optimal progressions.
 
-**Beyond coding, I enjoy:**  
-- 🎮 Gaming (BGMI, GTA V, Red Dead Redemption)  
-- 🎧 Listening to music  
-- 👥 Spending quality time with friends  
+Metric	Detail
+Stack	C++, STL, Algorithmic Pattern Documentation
+Scale	300+ problems across Arrays, Binary Search, Prefix Sums, Two Pointers
+Performance	Focus on optimal time/space complexity (avoiding TLE on large constraints)
+Security	N/A
+Impact	Strong, provable problem-solving discipline for technical interviews
+Repository	View on GitHub
 
----
+Engineering Notes: Every problem is solved with brute force, better, and optimal approaches — reinforcing pattern recognition over memorization.
 
-## 📫 Let’s Connect  
+</details>
+💼 Experience & Education
+text
+🎓 Bachelor of Technology — Data Science
+   Noida Institute of Engineering and Technology, Greater Noida
+   3rd Year | 2024 – 2028 (Expected)
 
-Feel free to explore my repositories and reach out for collaboration or opportunities.  
-I’m always open to learning and building something impactful 🚀  
+💻 Self-Driven Engineering Practice
+   - Consistent DSA problem solving (LeetCode, GeeksforGeeks)
+   - Backend API design & automated integration
+   - MERN stack application development (ongoing)
+   - Applied ML foundations with a roadmap toward LLM development
+📊 GitHub Analytics
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushydv071&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd"/> </div>
+<div align="center">
+📫 Let's Connect & Build Something Great
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Its_ydvayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-021668349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushydv071@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushydv071&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushydv071&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv071&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ayushydv071&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer"/> </div>
