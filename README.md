@@ -29,7 +29,9 @@
 
 ## 🪞 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
+</div>
 
 ```yaml
 Ayush_Yadav:
@@ -37,7 +39,7 @@ Ayush_Yadav:
   currently:
     - Building production-grade MERN stack applications
     - Designing and integrating REST APIs with automated backend systems
-    - Sharpening problem-solving through 300+ DSA problems (C++)
+    - Sharpening problem-solving through 100+ DSA problems (C++)
     - Exploring the foundations of Machine Learning
   vision: "Transitioning from ML fundamentals toward building and fine-tuning LLMs"
   engineering_philosophy:
@@ -51,15 +53,13 @@ Ayush_Yadav:
     - Freelance & Tutoring Opportunities
 ```
 
-<br clear="right"/>
-
 ## 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css&theme=dark"/>
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 
 **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
