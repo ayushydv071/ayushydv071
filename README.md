@@ -2,14 +2,14 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="www.linkedin.com/in/ayush-yadav-021668349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="ayushydv071@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ayushydv071"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayush-yadav-021668349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ayushydv071@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/ayushydv071"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ayushydv071&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/> <img src="https://img.shields.io/github/followers/ayushydv071?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=FOLLOWERS"/> <img src="https://img.shields.io/github/stars/ayushydv071?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=STARS"/> </div> <br/>
 🪞 About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
-​```yaml
+yaml
 Ayush_Yadav:
   role: "Software Engineer in the making | Full-Stack + AI/ML"
   currently:
@@ -27,17 +27,17 @@ Ayush_Yadav:
     - Open Source Collaboration
     - AI/ML Research Exposure
     - Freelance & Tutoring Opportunities
-```
 <br clear="right"/>
 🛠️ Tech Stack
-Languages
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,html,css&theme=dark"/>
-Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
-Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-Currently Exploring
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+
+Languages <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,html,css&theme=dark"/>
+
+Frontend <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/>
+
+Backend & Databases <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+
+Currently Exploring <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/>
+
 🧠 AI/ML Expertise
 <div align="center">
 Domain	Proficiency	Details
@@ -103,11 +103,10 @@ text
    - MERN stack application development (ongoing)
    - Applied ML foundations with a roadmap toward LLM development
 📊 GitHub Analytics
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushydv071&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd"/> </div>
-<div align="center">
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushydv071&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd"/> </div> <div align="center">
 📫 Let's Connect & Build Something Great
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayush-yadav-021668349"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ayushydv071@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
