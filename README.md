@@ -27,7 +27,7 @@ Ayush_Yadav:
     - Open Source Collaboration
     - AI/ML Research Exposure
     - Freelance & Tutoring Opportunities
-​```
+```
 <br clear="right"/>
 🛠️ Tech Stack
 Languages
