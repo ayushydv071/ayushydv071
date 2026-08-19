@@ -158,8 +158,8 @@ A structured, continuously updated repository documenting solved DSA problems wi
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-  <img src="https://streak-stats.demolab.com/?user=ayushydv071&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd"/>
 </div>
 
