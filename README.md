@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/ayush-yadav-021668349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ayushydv071@gmail.com"><img src="https://img.shields.io/badge/Email-D93025?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ayushydv071"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](portfolio-sandy-five-93.vercel.app)
+  <a href="portfolio-sandy-five-93.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
   <br/><br/>
 
