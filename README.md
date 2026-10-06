@@ -158,13 +158,18 @@ A structured, continuously updated repository documenting solved DSA problems wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ayushydv071&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd"/>
-</div>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=ayushydv071&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Ayush%27s%20Contribution%20Graph" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushydv071&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+
+</div>
 
 ### 📫 Let's Connect & Build Something Great
 
