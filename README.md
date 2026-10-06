@@ -163,7 +163,10 @@ A structured, continuously updated repository documenting solved DSA problems wi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushydv071&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Ayush%27s%20Contribution%20Graph" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushydv071/ayushydv071/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ayushydv071/ayushydv071/output/github-snake.svg" />
+</picture>
 
 <br/><br/>
 
